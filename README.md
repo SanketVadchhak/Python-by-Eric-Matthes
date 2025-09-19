@@ -7,7 +7,11 @@ This repository contains chapter-wise code examples and exercises from the book 
 ## Repository Structure & Chapter Overview
 
 - **Chapter 1: Getting Started**  
-  Introduction to Python programming, setting up Python environment, writing your first programs, understanding Python syntax and basic data types.
+ In this chapter, I learned how to set up Python on my computer and run my first Python code. I got familiar with Python syntax and basic functions.
+
+- `chapter_01/hello_world.py`  
+  This simple script prints "Hello Python world!" to the console.  
+  It helped me understand the `print()` function and how to run Python programs.
 
 - **Chapter 2: Variables and Simple Data Types**  
   Learn about variables, strings, numbers, comments, and the basics of data types manipulation.
