@@ -13,20 +13,28 @@ This repository contains chapter-wise code examples and exercises from the book 
   This simple script prints "Hello Python world!" to the console.  
   It helped me understand the `print()` function and how to run Python programs.
 
-- **Chapter 2: Variables and Simple Data Types**  
-  Learn about variables, strings, numbers, comments, and the basics of data types manipulation.
+### Chapter 2: Working with Data and Functions
 
-- **Chapter 3: Introducing Lists**  
-  Covers list data structures and operations such as adding, removing, and accessing items.
+In this chapter, I deepened my understanding of Python strings, variables, and functions. I practiced organizing my code with simple functions and learned how to manipulate text data effectively.
 
-- **Chapter 4: Working with Lists**  
-  Advanced list techniques including slicing, looping, and list comprehensions.
+**Code files:**
 
-- **Chapter 5: If Statements**  
-  Controlling program flow with conditional tests and Boolean expressions.
+- `chapter_02/simple_message.py`  
+  Prints a simple message to the console, revisiting output formatting basics.
 
-- **Chapter 6: Dictionaries**  
-  Storing data in key-value pairs, nesting data structures, and using dictionaries for real-world data modeling.
+- `chapter_02/quote.py`  
+  Stores a famous quote in a variable and prints it, practicing string assignment.
+
+- `chapter_02/name.py`  
+  Demonstrates storing and printing a person's name using variables.
+
+- `chapter_02/methods.py`  
+  Explores several string methods, such as changing case and stripping whitespace.
+
+- `chapter_02/full_name.py`  
+  Combines first and last name variables in a function to create a full name.
+
+
 
 ## About the Book
 
