@@ -4,8 +4,25 @@ This repository contains chapter-wise code examples and exercises from the book 
 
 ## Repository Structure
 
-Each chapter has its own folder containing the relevant code files and projects.
+## Repository Structure & Chapter Overview
 
+- **Chapter 1: Getting Started**  
+  Introduction to Python programming, setting up Python environment, writing your first programs, understanding Python syntax and basic data types.
+
+- **Chapter 2: Variables and Simple Data Types**  
+  Learn about variables, strings, numbers, comments, and the basics of data types manipulation.
+
+- **Chapter 3: Introducing Lists**  
+  Covers list data structures and operations such as adding, removing, and accessing items.
+
+- **Chapter 4: Working with Lists**  
+  Advanced list techniques including slicing, looping, and list comprehensions.
+
+- **Chapter 5: If Statements**  
+  Controlling program flow with conditional tests and Boolean expressions.
+
+- **Chapter 6: Dictionaries**  
+  Storing data in key-value pairs, nesting data structures, and using dictionaries for real-world data modeling.
 
 ## About the Book
 
