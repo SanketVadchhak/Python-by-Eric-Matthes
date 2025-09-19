@@ -6,7 +6,7 @@ This repository contains chapter-wise code examples and exercises from the book 
 
 ## Repository Structure & Chapter Overview
 
-- **Chapter 1: Getting Started**  
+### Chapter 1: Getting Started 
  In this chapter, I learned how to set up Python on my computer and run my first Python code. I got familiar with Python syntax and basic functions.
 
 - `chapter_01/hello_world.py`  
