@@ -9,7 +9,8 @@ guests = ["Thomas", "Gabbar", "Juliet"]
 
 for name in guests:
     print(f"Hello, {name} You're kindly invited to dinner party tommorow at my house.")
-print("\n" + guests[1], "can't make it to dinner party\n")
+print("\n" + guests[1], "can't make it to dinner party")
+print("There will be", len(guests), "pepoles at the party\n")
 
 '''
 3-5. Changing Guest List: You just heard that one of your guests can’t make the
@@ -26,7 +27,7 @@ print("\n" + guests[1], "can't make it to dinner party\n")
 guests[1] = "Romeo"
 for name in guests:
     print(f"Hello, {name} You're kindly invited to dinner party tommorow at my house.")
-print("\n Hello everyone we found bigger table so there will be three more pepole coming")
+print("\nHello everyone we found bigger table so there will be three more pepole coming")
 
 '''
 3-6. More Guests: You just found a bigger dinner table, so now more space is
@@ -45,6 +46,7 @@ guests.append("Jack")
 print()
 for name in guests:
     print(f"Hello, {name} You're kindly invited to dinner party tommorow at my house.")
+print("There will be", len(guests), "pepoles at the party")
 
 '''
 3-7. Shrinking Guest List: You just found out that your new dinner table won’t
@@ -68,11 +70,17 @@ for _ in range(0, 4):
 print()
 for name in guests:
     print(f"{name}, Just letting you know you are still invited to dinner")
+print("There will be", len(guests), "pepoles at the party")
 
 del guests[0]
 del guests[0]
 # This one line does the same thing as two del
 # guests.clear() 
 
-
 print("\n", guests)
+
+'''
+3-9. Dinner Guests: Working with one of the programs from Exercises 3-4
+     through 3-7 (pages 41–42), use len() to print a message indicating the number
+     of people you’re inviting to dinner.
+'''
