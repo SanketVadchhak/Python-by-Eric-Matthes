@@ -9,3 +9,17 @@ print(my_foods)
 
 print("\nMy friend's favorite foods are:")
 print(friend_foods)
+
+'''
+4-12. More Loops: All versions of foods.py in this section have avoided using
+      for loops when printing, to save space. Choose a version of foods.py, and
+      write two for loops to print each list of foods.
+'''
+print()
+print("My favorite foods are:", end = " ")
+for my_food in my_foods:
+    print(my_food, end = " ")
+print()
+print("My friends favorite foods are:", end = " ")
+for friend_food in friend_foods:
+    print(friend_food, end = " ")
